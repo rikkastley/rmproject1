@@ -1,0 +1,5 @@
+C:/Users/XYC/Desktop/ZJU/RM/rmproject1/Core/Src/main.c:67:5:main	8	static
+C:/Users/XYC/Desktop/ZJU/RM/rmproject1/Core/Src/main.c:118:6:SystemClock_Config	88	static
+C:/Users/XYC/Desktop/ZJU/RM/rmproject1/Core/Src/main.c:166:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/Users/XYC/Desktop/ZJU/RM/rmproject1/Core/Src/main.c:175:6:HAL_CAN_RxFifo0MsgPendingCallback	56	static
+C:/Users/XYC/Desktop/ZJU/RM/rmproject1/Core/Src/main.c:190:6:Error_Handler	4	static
